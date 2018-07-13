@@ -9,16 +9,29 @@
 <ul>
 	<h4>General Programming</h4>
 	<li><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA">Intro to Computer Science and Programming in Python (2016)</a></li>
+    <li><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP62bMZx9A3DR7V5myByt48CC">Intro to MATLAB Programming (2011)</a></li>
+    <li><a href="https://www.youtube.com/playlist?list=PLD2AE32F507F10481">Performance Engineering of Software Systems (2010)</a></li>
+    <li><a href="https://www.youtube.com/playlist?list=PLE638294EA3288272">Multicore Programming Primer</a></li>
+    <li><a href="https://www.youtube.com/playlist?list=PL0300FE43396456C1">Computer Language Engineering (2005)</a></li>
+</ul>
+<ul>
+    <h4>AI and Machine Learning</h4>
+    <li><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi">Artificial Intelligence (2010)</a></li>
 </ul>
 <ul>
 	<h4>Algorithms and Data Structures</h4>
     <li><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb">Introduction to Algorithms (2011)</a></li>
 	<li><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp">Design and Analysis of Algorithms (2016)</a></li>
+    <li><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf">Advanced Data Structures (2012)</a></li>
 </ul>
 <ul>
 	<h4>Mathematics</h4>
 	<li><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ">Mathematics for Computer Science (2015)</a></li>
+    <li><a href="https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1">Single Variable Calculus (2006)</a></li>
+    <li><a href-"https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38">Multivariable Calculus (2007)</a></li>
+    <li><a href="https://www.youtube.com/playlist?list=PLEC88901EBADDD980">Differential Equations (2006)</a></li>
 </ul>
+
 	
 </body>
 </html>
