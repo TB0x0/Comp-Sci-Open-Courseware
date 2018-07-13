@@ -37,6 +37,11 @@
 <ul>
     <h4>General Programming</h4>
     <li><a href="https://www.youtube.com/playlist?list=PLA70DBE71B0C3B142">Java Course (2008)</a></li>
+    <li><a href="https://www.youtube.com/playlist?list=PLDD1386C4D784B56B">Developing Mobile Apps with Web Technologies (2010)</a></li>
+    <li><a href="https://www.youtube.com/playlist?list=PLCCE29F69A864766F">iPhone Application Development (2010)</a></li>
+    <li><a href="https://www.youtube.com/playlist?list=PL84A56BC7F4A1F852">Programming Methodology</a></li>
+    <li><a href="https://www.youtube.com/playlist?list=PLFE6E58F856038C69">Programming Abstractions</a></li>
+    <li><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rO5jY6RA1eFVcLVY2kJU_EL">Statistics and Data Science</a></li>
 </ul>
 <ul>
     <h4>AI and Machine Learning</h4>
@@ -50,6 +55,13 @@
 </ul>
 <ul>
     <h4>Mathematics</h4>
+</ul>
+
+<h3>Harvard Open Courseware</h3>
+<ul>
+    <h4>Algorithms and Data Structures</h4>
+    <li><a href="https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf">Advanced Algorithms</a></li>
+    <li><a href="https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf">Algorithms for Big Data</a></li>
 </ul>
 
 	
