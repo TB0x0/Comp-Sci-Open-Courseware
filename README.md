@@ -1,7 +1,8 @@
 <html>
 <body>
 <h5>This is my attempt to organize and make sense of the various courses available to the public.
-I'd like to cover subjects loosely related to CS and the fields of mathematics pertaining to it. 
+    I'd like to cover subjects loosely related to CS and the fields of mathematics pertaining to it. 
+    The program I enjoy using for these daunting readme frankenstein programs is <a href="http://brackets.io/">brackets</a>.
 </h5>
 
 <h3> MIT Open Courseware</h3>
