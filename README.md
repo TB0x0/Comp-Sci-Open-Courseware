@@ -13,6 +13,7 @@
     <li><a href="https://www.youtube.com/playlist?list=PLD2AE32F507F10481">Performance Engineering of Software Systems (2010)</a></li>
     <li><a href="https://www.youtube.com/playlist?list=PLE638294EA3288272">Multicore Programming Primer</a></li>
     <li><a href="https://www.youtube.com/playlist?list=PL0300FE43396456C1">Computer Language Engineering (2005)</a></li>
+    <li><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP62QumaaZtCCjkID-NgqrleA">Programming for the Puzzled (2018)</a></li>
 </ul>
 <ul>
     <h4>AI and Machine Learning</h4>
@@ -28,8 +29,27 @@
 	<h4>Mathematics</h4>
 	<li><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ">Mathematics for Computer Science (2015)</a></li>
     <li><a href="https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1">Single Variable Calculus (2006)</a></li>
-    <li><a href-"https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38">Multivariable Calculus (2007)</a></li>
+    <li><a href="https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38">Multivariable Calculus (2007)</a></li>
     <li><a href="https://www.youtube.com/playlist?list=PLEC88901EBADDD980">Differential Equations (2006)</a></li>
+</ul>
+
+<h3>Stanford Open Courseware</h3>
+<ul>
+    <h4>General Programming</h4>
+    <li><a href="https://www.youtube.com/playlist?list=PLA70DBE71B0C3B142">Java Course (2008)</a></li>
+</ul>
+<ul>
+    <h4>AI and Machine Learning</h4>
+    <li><a href="https://www.youtube.com/playlist?list=PLGRecdYLYDNc1fDVY8tPJJTct1_0p1xoB">Artificial Intelligence Course (2017)</a></li>
+    <li><a href="https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599">Machine Learning (2008)</a></li>
+    <li><a href="https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv">Convolutional Neural Networks for Visual Recognition (2017)</a></li>
+    <li><a href="https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6">Natural Language Processing with Deep Learning (2017)</a></li>
+</ul>
+<ul>
+    <h4>Algorithms and Data Structures</h4>
+</ul>
+<ul>
+    <h4>Mathematics</h4>
 </ul>
 
 	
